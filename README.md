@@ -95,6 +95,6 @@ Hardware/Gerber/
 
 ## Author
 
-Ilayaraja
+Panchacharam i
 
 ECE Student | Embedded Systems | PCB Design | STM32 | RF | VLSI
